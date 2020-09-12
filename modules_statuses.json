@@ -1,0 +1,15 @@
+{
+    "Blog": true,
+    "Blog1": true,
+    "Cms": true,
+    "Courses": true,
+    "Users": true,
+    "User": true,
+    "Admin": true,
+    "Media": true,
+    "Auth": true,
+    "Settings": true,
+    "Calendar": true,
+    "Chat": true,
+    "Exam": true
+}
